@@ -7,6 +7,7 @@
 ### NZBGET POST-PROCESSING SCRIPT                                          ###
 
 # Log output to ElasticSearch
+# Created by Chris Bergeron <nzbget@chrisbergeron.com>
 #
 # Inserts NZBGet logs into ElasticSearch.  Options are hostname and port.
 # See https://chrisbergeron.com/ for details
@@ -22,7 +23,7 @@
 # ElasticSearch server host
 #Host=localhost
 
-# ElasticSearch server port (default is 9200); uncomment only if different from default
+# ElasticSearch port (default is 9200); uncomment if different from default
 #Port=9200
 
 # NZB Disposition (the outcome of the download attempt)
