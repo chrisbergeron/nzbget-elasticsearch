@@ -16,9 +16,14 @@ Here's a very simple example:
 
 Fell free to create a Pull Request (PR) and submit improvements.  I'm new to Python and there are a lot of areas for improvement in this plugin.
 
-## Usage: ##
-Download and copy the ESLog.py file from this repo into your `NZBGet/scripts` directory.
+## Installation: ##
+Download and copy the ESLog.py file from this repo into your `NZBGet/scripts` directory.  Alternatively, you can clone this repo directly into the /scripts/ directory:
+```
+git clone https://github.com/chrisbergeron/nzbget-elasticsearch.git
+mv nzbget-elasticsearch/ESLog.py ..
+```
 
+## Usage: ##
 In NZBGet go into `Settings` and at the bottom left you should see `ESLog`:
 ![Configuring Plugin](https://raw.githubusercontent.com/chrisbergeron/nzbget-elasticsearch/master/screenshots/configuring-plugin.png)
 
