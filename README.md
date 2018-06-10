@@ -16,8 +16,8 @@ Here's a very simple example:
 Fell free to create a Pull Request (PR) and submit improvements.  I'm new to Python and there are a lot of areas for improvement in this plugin.
 
 ## Roadmap: ##
-- Separate Show Name, Episode Name, Season and Episode info, Quality and Crew into separate index fields in Elastic.
-- Add case statement to parse and map NZBGet output codes into disposition names
+- [ ] Separate Show Name, Episode Name, Season and Episode info, Quality and Crew into separate index fields in Elastic.
+- [ ] Add case statement to parse and map NZBGet output codes into disposition names
 
 Learn more about NZBGet here:
 - [Home page (nzbget.net)](http://nzbget.net) - for first time visitors, learn more about NZBGet;
