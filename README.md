@@ -11,7 +11,7 @@ This script is written in python and it requires the installation of the elastic
 The purpose of this script is to allow you to create a dashboard or other reporting around your downloads.  Using Grafana or the Kibana dashboard you can create neat visualizations.  
 
 Here's a very simple example:
-[Simple Kibana Visualization](https://raw.githubusercontent.com/chrisbergeron/nzbget-elasticsearch/master/screenshots/kibana_visualization.png)
+![Simple Kibana Visualization](https://raw.githubusercontent.com/chrisbergeron/nzbget-elasticsearch/master/screenshots/kibana_visualization.png)
 
 Fell free to create a Pull Request (PR) and submit improvements.  I'm new to Python and there are a lot of areas for improvement in this plugin.
 
