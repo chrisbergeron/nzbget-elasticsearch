@@ -43,3 +43,4 @@ If configured properly, you'll see lines like this in your NZBGet `Messages`:
 - [ESLog.py forum post](https://forum.nzbget.net/viewtopic.php?f=8&t=3238) - conversation about this script/plugin
 - [Home page (nzbget.net)](http://nzbget.net) - for first time visitors, learn more about NZBGet
 - [Forum](http://forum.nzbget.net) - get support, share your ideas, scripts, add-ons.
+- [My Blog Post](http://chrisbergeron.com/2018/06/10/nzbget_elasticsearch_script/) - introducing the script to the world
